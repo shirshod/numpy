@@ -1,4 +1,4 @@
-# NumPy: An Introduction
+# [NumPy: An Introduction](https://github.com/shirshod/numpy/blob/main/numpy_intro.ipynb)
 
 The topics and code covered in this notebook are sourced from W3 Schools (with little tweaks here and there) and from my own research.
 
